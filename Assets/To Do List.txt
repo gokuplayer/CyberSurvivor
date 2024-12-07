@@ -1,0 +1,157 @@
+Black Market Vendor?
+More weapons
+- claymores
+- rpg
+boxes for weapon/item levels <- not sure if want to do
+Active abilities
+- runner > fire rate boost
+- smasher > riot shield bash
+- samurai > Iaido screen slash
+- cop > aoe knockback
+- sniper > drop claymores
+- cyberneer > 6 homing rockets
+
+Animation for electro magnet
+Remove duplication of item choices on level up
+Separate sound sources (SFX, Music)
+
+Update credits for trailer. Include name of Toasted, fonts, royalty free music.
+
+---BUGS---
+Drone bullets rotate funny
+
+---ADJUSTMENTS---
+
+
+---Waiting on people---
+>>>Audio
+Menu Music (Scarlet)
+Weapon hit sound
+Player attack sound
+>>>Art
+Updated sprites (Tommy?)
+Game icon
+Enemy Sprites
+Enemy death animation
+
+---DONE---
+Maps now need to be unlocked through winning the previous map
+Each map now has its own unique set of enemies and bosses that spawn.
+Added the Dr. Viktor Romanescu boss for map 2
+Added the Giant Security Bot boss for map 2
+Added the Mining-Mech enemy for map 2
+Added the Soldier enemy for map 2
+Added the Scientist enemy for map 2
+Added the Security Bot enemy for map 2
+Added the Mech-Spider enemy for map 1
+Added the Miner enemy for map 1
+Adjusted Psycho stats for map 2 scaling
+Fixed a bug where the baton would stun enemies at any level and tunned enemies moved on game pause.
+Credits are saved
+Added a new credits system, which boxes and enemies have a low chance of dropping
+Put map select on start menu
+Made old map Map 2, Map 1 is the newest map
+Added a second map
+Adjusted Plasma Shotgun starting spawn rate calculation
+Adjusted projectile hit limit calculation
+Electromagnet max level now has increased size
+Plasma Shotgun max level now has increased size
+Baton has awakened form (Stun baton)
+Pistol has awakened form (Mini knife)
+Minigun has awakened form (Higher caliber/Max Penetration)
+Katana has awakened form (Dual katanas)
+Sniper has awakened form (Explosive rounds)
+Drone has awakened form (Homing bullets)
+
+Ver 0.5 ^^^
+
+All enemies' speeds are randomized by a small factor
+Everything has 1 more speed
+All enemies have slight adjustments in HP and attack
+All player characters have 1 more speed
+All projectiles have 100 more velocity
+Electromagnet added
+Plasma Shotgun added
+Enemies spawn around player every 30 seconds
+Translate speed for health and XP increased
+Sniper and Drone have increased fire rates
+Credits page added
+Minor font changes for readability
+Spelling error fixes
+Aiming with the mouse
+SFX for being attacked added
+
+Ver 0.4 ^^^
+
+unique character abilities***
+Settings reset on return to main menu***
+Item Descriptions***
+damage number pop ups***
+UI graphics***
+Changed health bar pivot point***
+Put char select on start menu***
+Make stats show up during level up menu***
+
+Ver 0.3 ^^^
+Ver 0.2 vvv
+
+Weapon level display***
+Item level display***
+Saved Options***
+Randomize Boss drops***
+Pause Menu Stats***
+Midgame Boss drops***
+Change pause logic***
+Enemy amount control***
+Negate katana/baton destruction on hit***
+Collection radius***
+Option Menu***
+Health drops***
+Breakable Objects***
+Map 1 Music (Scarlet)***
+Scrolling Map***
+Pause Menu***
+Game Over Menu***
+Redo enemy waves***
+ - list to hold waves
+ - waves hold enemies
+ - timer to send out waves during the minute intervals
+Character Select***
+Weapon on Level Up***
+Weapon Levels***
+Passive Items***
+ - check if characterweapons is used
+ - make item gameobject
+ - make item select button
+Item Levels***
+Main Menu***
+Characters***
+Weapons***
+Level Up***
+
+---FIXED BUGS---
+enemies underneath game objects
+player takes damage on pause
+damage doing 0 sometimes
+
+Ver 0.4 ^^^
+
+shut off level up button for build***
+change player taking damage***
+font change***
+Mainmenu feedback***
+lower final boss hp***
+HP decimal places should be none***
+XP collision thing***
+
+Ver 0.3 ^^^
+Ver 0.2 vvv
+
+last weapon/item level is outside of the box (add 10 to size, move over by 5)***
+Smart chip showed up when at max items?***
+HP Regen on pause***
+Weapon sprite flip***
+Upon losing, game breaks bug fix***
+Fix spawnrate pausing***
+Boss spawns with the wave***
+weapon/item button spawning when at max bug fix***

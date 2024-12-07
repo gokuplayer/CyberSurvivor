@@ -1,0 +1,38 @@
+---CHANGE LOG---
+V0.5 vvv
+
+Maps now need to be unlocked through winning the previous map
+Each map now has its own unique set of enemies and bosses that spawn.
+Added the Dr. Viktor Romanescu boss for map 2
+Added the Giant Security Bot boss for map 2
+Added the Mining-Mech enemy for map 2
+Added the Soldier enemy for map 2
+Added the Scientist enemy for map 2
+Added the Security Bot enemy for map 2
+Added the Mech-Spider enemy for map 1
+Added the Miner enemy for map 1
+Adjusted Psycho stats for map 2 scaling
+Credits are saved
+Added a new credits system, which boxes and enemies have a low chance of dropping
+Put map select on start menu
+Made old map Map 2, Map 1 is the newest map
+Added a second map
+Adjusted Plasma Shotgun starting spawn rate calculation
+Adjusted projectile hit limit calculation
+Electromagnet max level now has increased size
+Plasma Shotgun max level now has increased size
+Baton has awakened form (Stun baton)
+Pistol has awakened form (Mini knife)
+Minigun has awakened form (Higher caliber/Max Penetration)
+Katana has awakened form (Dual katanas)
+Sniper has awakened form (Explosive rounds)
+Drone has awakened form (Homing bullets)
+
+ BUG FIXES vvv
+
+Fixed a bug where the baton would stun enemies at any level and tunned enemies moved on game pause.
+
+ KNOWN BUGS vvv
+
+projectiles keep moving in pause screen
+Drone bullets rotate funny
